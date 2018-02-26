@@ -92,3 +92,6 @@ TW_THEME := portrait_hdpi
 
 # Disable Mouse Cursor
 TW_INPUT_BLACKLIST := "hbtp_vm"
+
+# multirom
+include $(DEVICE_PATH)/multirom/multirom.mk
